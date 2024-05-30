@@ -1,4 +1,8 @@
-# User Authentication Service
+# 0x03. User authentication service
+<table>
+<td>Back-end</td>
+<td>Authentification</td>
+</table>
 
 This project contains tasks for learning to create a user authentication service.
 
